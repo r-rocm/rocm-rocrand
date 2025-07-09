@@ -1,3 +1,9 @@
+rocm-rocrand (6.2.4-2) unstable; urgency=medium
+
+  * Rebuild with new Trixie base.
+
+ -- CHEN Xuan <chenxuan@iscas.ac.cn>  Wed, 09 Jul 2025 12:50:16 +0800
+
 rocm-rocrand (6.2.4-1) unstable; urgency=medium
 
   * Initial release.
