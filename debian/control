@@ -12,6 +12,7 @@ Build-Depends:
  rocm-env,
  rocm-hip-on-rocclr-dev,
  rocm-llvm,
+ rocm-rocminfo,
 Standards-Version: 4.7.0
 Homepage: https://github.com/ROCm/rocRAND
 Vcs-Browser: https://github.com/r-rocm/rocm-rocrand
@@ -26,6 +27,7 @@ Depends:
  rocm-core,
  rocm-env,
  rocm-hip-on-rocclr,
+ rocm-rocminfo,
 Description: ROCm random number generation library - binary
  The rocRAND project provides functions that generate pseudorandom and
  quasirandom numbers. The rocRAND library is implemented in the HIP programming
